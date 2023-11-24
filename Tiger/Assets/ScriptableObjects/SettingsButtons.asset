@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf64a0095899add408fdd2ffe88a5e9b, type: 3}
+  m_Name: SettingsButtons
+  m_EditorClassIdentifier: 
+  activeButtons:
+  - {fileID: -1500203317, guid: 60a5b9a7e643a634b86128be6f8a6db6, type: 3}
+  - {fileID: 2091342356, guid: 60a5b9a7e643a634b86128be6f8a6db6, type: 3}
+  inactiveButtons:
+  - {fileID: -757646782, guid: 0a2c68c01bbad224e9e3c7e94ff94144, type: 3}
+  - {fileID: -631512425, guid: 0a2c68c01bbad224e9e3c7e94ff94144, type: 3}
